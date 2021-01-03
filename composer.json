@@ -1,11 +1,11 @@
 {
-    "name": "team-reflex/tidal-php",
+    "name": "daggerwolf45/tidal-php",
     "description": "Unofficial API wrapper for the audio streaming service TIDAL.",
     "license": "MIT",
     "authors": [
         {
-            "name": "David Cole",
-            "email": "david@team-reflex.com"
+            "name": "David Cole, Sam Laird",
+            "email": "david@team-reflex.com, sam@wolfdenserver.com"
         }
     ],
     "autoload": {
