@@ -18,7 +18,7 @@
         "react/http-client": "^0.5.1",
         "clue/buzz-react": "^2.9.0",
         "illuminate/support": "^5.2",
-        "nesbot/carbon": "^1.21"
+        "nesbot/carbon": "^2.38"
     },
     "require-dev": {
         "symfony/var-dumper": "^3.0"
