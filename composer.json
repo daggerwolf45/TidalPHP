@@ -14,7 +14,7 @@
         }
     },
     "require": {
-        "react/event-loop": "^0.4.2",
+        "react/event-loop": "^0.5.3",
         "react/http-client": "^0.5.1",
         "clue/buzz-react": "^2.9.0",
         "illuminate/support": "^5.2",
