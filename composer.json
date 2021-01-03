@@ -16,7 +16,7 @@
     "require": {
         "react/event-loop": "^0.4.2",
         "react/http-client": "^0.5.1",
-        "clue/buzz-react": "^0.4.1",
+        "clue/buzz-react": "^2.9.0",
         "illuminate/support": "^5.2",
         "nesbot/carbon": "^1.21"
     },
